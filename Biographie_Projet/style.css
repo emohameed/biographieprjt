@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 100%;
+}
+.title{
+    background-color: #444;
+    position: fixed;
+    width: 100%;
+}
+h1{
+    height: 80px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+#legend{
+    font-size: 25px;
+    text-transform: none;
+}
+.container {
+    margin-top: 90px;
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.bio{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    line-height: 40px;
+    word-spacing: 5px;
+}
+.img{
+    height: 500px;
+    width: 390px;
+}
+.figure{
+    font-size: 10px;
+}
+.infbio{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.date{
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+}
+li{
+    margin: 20px;
+}
+.link{
+    text-align: center;
+    font-weight: 600;
+}
